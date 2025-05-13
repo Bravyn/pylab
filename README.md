@@ -1,4 +1,4 @@
-# Python Lab Scripts 🐍
+# Python Lab Scripts
 
 Welcome to my **PyLab** – a growing collection of Python scripts written for experimentation, learning, and utility purposes. This repository contains various standalone Python scripts that demonstrate different concepts, tools, and use cases in Python programming.
 
