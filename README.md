@@ -1,10 +1,6 @@
-Here's a clean and informative `README.md` template for your GitHub repo titled *"A Collection of Scripts for My Python Lab"*:
-
----
-
 # Python Lab Scripts 🐍
 
-Welcome to my **Python Lab** – a growing collection of Python scripts written for experimentation, learning, and utility purposes. This repository contains various standalone Python scripts that demonstrate different concepts, tools, and use cases in Python programming.
+Welcome to my **PyLab** – a growing collection of Python scripts written for experimentation, learning, and utility purposes. This repository contains various standalone Python scripts that demonstrate different concepts, tools, and use cases in Python programming.
 
 ## 📂 Structure
 
@@ -33,20 +29,6 @@ pip install -r requirements.txt
 
 If `requirements.txt` is not available, dependencies may be listed at the top of individual scripts.
 
-## 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/python-lab-scripts.git
-cd python-lab-scripts
-```
-
-Run any script with:
-
-```bash
-python3 path/to/script.py
-```
 
 ## 📚 Learning Goals
 
@@ -63,7 +45,3 @@ Suggestions, improvements, or new script ideas are always welcome! Feel free to 
 ## 📄 License
 
 MIT License – you are free to use, modify, and share the scripts with attribution.
-
----
-
-Let me know if you'd like it to be tailored for a specific domain (e.g., data science, security, automation), or want me to generate the actual folder structure from your files.
